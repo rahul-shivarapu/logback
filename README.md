@@ -1,4 +1,3 @@
-
 # About logback
 
 Thank you for your interest in logback, the reliable, generic, fast
@@ -82,7 +81,12 @@ looks forward to your contribution. Please follow this process:
 
 | Branch | Last results |
 | ------ | -------------|
-| master | ![CI master](https://github.com/qos-ch/logback/actions/workflows/main.yml/badge.svg) |
+| master | ![CI master](https://github.com/qos-ch/logback/actions/workflows/main.yml/badge.svg) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frahul-shivarapu%2Flogback.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frahul-shivarapu%2Flogback?ref=badge_shield)
+|
 | 1.3 branch | ![CI 1.3 branch](https://github.com/qos-ch/logback/actions/workflows/main.yml/badge.svg?branch=branch_1.3.x) |
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frahul-shivarapu%2Flogback.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frahul-shivarapu%2Flogback?ref=badge_large)
